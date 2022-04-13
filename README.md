@@ -1,5 +1,5 @@
 # CaptainGoon
-School Project
+School Project  
 A space invaders like using java library libgdx.
 
 Code can be found in core/build/classes/java/main/com/mygdx/captain_goon
